@@ -1,9 +1,2 @@
 # Volume-Hand-Control
-This code is a Python application that uses hand gesture recognition to control the system's volume level in real-time.
-
-
-I am writing this code to dedicate to my loving partner ❤️
-The idea came whe she use to use the Discord Volume control button  to lower my channel volume when I used to talk to irritate her.
-I have made this easy for her, now she can do this using simple hand 🤏 gestures.
-
-Check the compatible Python version with OpenCV before using the code. 
+This Python application is a heartfelt tribute to my beloved partner ❤️, crafted with love and a touch of whimsy. Inspired by the playful moments we shared on Discord, where she would amusingly adjust my channel volume to express her feigned irritation at my chatter 🗣️, I was motivated to simplify this act of endearment. Now, with the elegance of hand gestures 🤏, she can effortlessly control the system's volume. This gesture recognition tool, powered by the synergy of Python and OpenCV, is not just a technical marvel but a symbol of our unique connection and the joy we find in life's little quirks. Before immersing in this romantic tech adventure, ensure compatibility with your Python version to experience the magic seamlessly.
